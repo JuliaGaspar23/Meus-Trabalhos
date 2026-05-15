@@ -1,0 +1,10 @@
+button {
+    background-color: rgb(4, 189, 59);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    border: none;
+    padding: 10px 20px;}
+
+span {
+    color: rgb(255, 0, 221);
+}
